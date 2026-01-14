@@ -24,7 +24,6 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 nav .menu {
@@ -59,7 +58,7 @@ nav .menu a {
 .hero {
       height: 674px;
       background: linear-gradient(rgba(65, 64, 64, 0.40), rgba(61, 60, 60, 0.40)),
-      url("/assets/hero-bg.png");
+      url("assets/hero-bg.png");
       background-size: cover;
       background-position: center;
       color: white;
@@ -352,7 +351,7 @@ nav .menu a {
 }
 .social-links p{
   color: #ffffff;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 28px;
 }
